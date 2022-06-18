@@ -1,0 +1,196 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+        {
+          "category": 19,
+          "image": "https://deessentials.online/wp-content/uploads/2022/05/SLIDER1.png",
+          "padding": 15.0
+        },
+        {
+          "category": 20,
+          "image": "https://deessentials.online/wp-content/uploads/2022/05/SLIDER2.png",
+          "padding": 15.0
+        },
+        {
+          "product": 21,
+          "image": "https://deessentials.online/wp-content/uploads/2022/05/SLIDER3.png",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "layout": "category",
+      "type": "column",
+      "wrap": false,
+      "size": 1.0,
+      "radius": 50.0,
+      "items": [
+
+        {
+          "category": 17,
+          "image": "assets/icons/tabs/casuals.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ]
+        },
+        {
+          "category": 19,
+          "image": "assets/icons/tabs/dresses.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "category": 18,
+          "image": "assets/icons/tabs/topss.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "category": 21,
+          "image": "assets/icons/tabs/fabric.png",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ]
+        },
+        {
+          "category": 20,
+          "image": "assets/icons/tabs/formal.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "height": 0.15,
+      "items": [
+        {
+          "category": 39,
+          "image": "http://deessentials.in/wp-content/uploads/2022/02/offiers.png",
+          "padding": 15.0
+        }
+      ]
+    },
+
+
+    {
+      "name" : "Today's Offers",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 26,
+      "isSnapping": true
+    },
+
+    {
+      "name" : "Kurties",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 17,
+      "isSnapping": true
+    },
+
+
+    {
+      "name" : "Dresses",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 19,
+      "isSnapping": true
+    },
+
+    {
+      "name" : "Tops",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 18,
+      "isSnapping": true
+    },
+    {
+      "name": "Fabrics",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 21,
+      "isSnapping": true
+    },
+
+    {
+      "name": "Formals",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 20,
+      "isSnapping": true
+    }
+  ],
+  "VerticalLayout": {
+    "layout": "pinterest",
+    "name": "Latest Inclusions ",
+    "image": "",
+    "category": 27
+  },
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "ShowChat": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true
+    }
+  ],
+  "searchSuggestion": [
+    "Here are some suggestions:",
+    "man",
+    "woman",
+    "dress",
+    "Stitch"
+  ],
+  "OnBoarding": {
+    "data": [
+
+    ]
+  }
+}
